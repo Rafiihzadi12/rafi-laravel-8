@@ -2,14 +2,14 @@
 <html>
 <head>
     <title>Laravel 8 CRUD Application</title>
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootsrap/4.0.0-alpha/css/bootstrap.css" rel=stylesheet>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha/css/bootstrap.css" rel="stylesheet">
 </head>
 <body>
-    <h1>Laravel 8 CRUD Application</h1>
-    <div class="container">
+
+<div class="container">
     <br>
     @yield('content')
-    </div>
-    
+</div>
+
 </body>
 </html>
